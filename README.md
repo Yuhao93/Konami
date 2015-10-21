@@ -22,4 +22,4 @@ Konami.listen({
 ```
 
 Then, whenever the user inputs the specified sequence (by default the konami code), your callback function
-is called. You can use any arbitrary length sequence. All letters and numbers, direction keys, shift, control ('ctrl'), and enter are supported.
+is called. You can use any arbitrary length sequence. All letters and numbers, direction keys, shift, space, control ('ctrl'), and enter are supported.
